@@ -32,3 +32,5 @@ Dynamic PDF report generation
 
 Clean UI with feedback toasts and modal interactions
 
+- The goal was to transform operational tasks into measurable insights, providing visibility into productivity trends and workload distribution.
+
